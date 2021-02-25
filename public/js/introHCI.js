@@ -13,7 +13,7 @@ function initializePage() {
  	initCamera();
  	initMap();
  	initGestures();
- 	initRSVPForm();
+ 	initRSVPForm(); 
 }
 
 // init jQuery gestures
